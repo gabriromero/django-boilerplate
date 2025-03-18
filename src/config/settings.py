@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'config',
-    'network_coverage',
+    'initial_app',
 ]
 
 MIDDLEWARE = [
