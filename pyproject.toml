@@ -1,5 +1,5 @@
 [project]
-name = "network-coverage-api"
+name = "django-boilerplate"
 version = "0.1.0"
 description = ""
 authors = [
